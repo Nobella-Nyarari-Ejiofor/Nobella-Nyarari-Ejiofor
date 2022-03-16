@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Nobella Nyarari Ejiofor</h1>
 <h3 align="center">A passionate full stack web developer from Nairobi, Kenya.</h3>
