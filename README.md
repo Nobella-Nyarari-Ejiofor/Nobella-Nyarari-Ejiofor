@@ -5,8 +5,6 @@
 <h3 align="center">I am also interested in Data Analysis.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nobella-nyarari-ejiofor" alt="nobella-nyarari-ejiofor" /></a> </p>
-
 - 🔭 I’m currently working on [The Mope](https://github.com/Nobella-Nyarari-Ejiofor/The-Mope)
 
 - 🌱 I’m currently learning **DJANGO and RestAPI's .**
