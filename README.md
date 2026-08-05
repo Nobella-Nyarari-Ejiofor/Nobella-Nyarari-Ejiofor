@@ -2,7 +2,7 @@
 
 ### Senior DevOps Engineer | Cloud Enthusiast | Mentor | Speaker
 
-I am currently working as a **Senior DevOps Engineer** at [Nathan Digital](https://www.nathandigital.com), where I help build and manage scalable infrastructures, ensuring high availability, automation, and security. I enjoy working with a diverse range of tools and technologies and am passionate about mentoring and empowering the next generation of tech leaders.
+I am currently working as a **Platform Engineer** at [Ezra Kenya](https://ezra.world/), where I help build and manage scalable infrastructures, ensuring high availability, automation, and security. I enjoy working with a diverse range of tools and technologies and am passionate about mentoring and empowering the next generation of tech leaders.
 
 ## 🛠 Technologies & Tools
 - **Cloud Platforms**: AWS, GCP
