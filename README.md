@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nobella Nyarari Ejiofor!
 
-### Senior DevOps Engineer | Cloud Enthusiast | Mentor | Speaker
+### Senior DevOps Engineer | Platform Engineer| Cloud Enthusiast | Mentor | Speaker
 
 I am currently working as a **Platform Engineer** at [Ezra Kenya](https://ezra.world/), where I help build and manage scalable infrastructures, ensuring high availability, automation, and security. I enjoy working with a diverse range of tools and technologies and am passionate about mentoring and empowering the next generation of tech leaders.
 
